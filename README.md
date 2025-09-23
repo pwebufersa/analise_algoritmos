@@ -1,6 +1,6 @@
-# Análise de Algoritmos - 2025.1
+# Análise de Algoritmos - 2025.2
 
-Repositório de Análise de Algoritmos da UFERSA Angicos - Semestre 2025.1 - Professor Francisco Arruda (Xico).
+Repositório de Análise de Algoritmos da UFERSA Angicos - Semestre 2025.2 - Professor Francisco Arruda (Xico).
 
 ---
 
