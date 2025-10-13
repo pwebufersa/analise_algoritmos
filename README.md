@@ -7,17 +7,17 @@ Repositório da disciplina **Análise de Algoritmos** da UFERSA Angicos no semes
 ## Unidade 1
 
 ### Aula 1 - 25/09/2025 (2,0)
-- **Tópicos:** Análise Assintótica
+- **Tópicos:** Análise Assintótica, força bruta, busca linear e busca binária
 - **Exercícios:** [Clique aqui](unidade1/aula1)
 - **Prazo de entrega:** 05/10/2025 até 23:59 (inegociável)
 
 ### Aula 2 - 09/10/2025 (1,0)
-- **Tópicos:** Força bruta, busca linear e busca binária
+- **Tópicos:** Busca em vetor
 - **Exercícios:** [Clique aqui](unidade1/aula2)
 - **Prazo de entrega:** 19/10/2025 até 23:59 (inegociável)
 
 ### Aula 3 - 16/10/2025 (2,0)
-- **Tópicos:** Branch and Bounds, busca
+- **Tópicos:** Algoritmos gulosos
 - **Exercícios:** [Clique aqui](unidade1/aula3)
 - **Prazo de entrega:** 02/11/2025 até 23:59 (inegociável)
 
@@ -26,17 +26,17 @@ Repositório da disciplina **Análise de Algoritmos** da UFERSA Angicos no semes
 ## Unidade 2
 
 ### Aula 4 - 30/10/2025 (2,0)
-- **Tópicos:** Branch and Bounds, algoritmos gulosos
+- **Tópicos:** Algoritmos gulosos
 - **Exercícios:** [Clique aqui](unidade2/aula4)
 - **Prazo de entrega:** 06/11/2025 até 23:59 (inegociável)
 
 ### Aula 5 - 06/11/2025 (3,0)
-- **Tópicos:** Fibonacci e Hash
+- **Tópicos:** Fibonacci e hash
 - **Exercícios:** [Clique aqui](unidade2/aula5)
 - **Prazo de entrega:** 13/11/2025 até 23:59 (inegociável)
 
 ### Aula 6 - 13/11/2025 (2,0)
-- **Tópicos:** Análise de Complexidade
+- **Tópicos:** Análise de complexidade
 - **Exercícios:** [Clique aqui](unidade2/aula6)
 - **Prazo de entrega:** 20/11/2025 até 23:59 (inegociável)
 
