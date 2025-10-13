@@ -1,38 +1,28 @@
-### U1 - Aula 3 - 22/05/2025 - Branch and Bounds, busca
+### U1 - Aula 4 - 29/05/2025 - Branch and Bounds, algoritmos gulosos (2,0)
 
-#### (2,0) Busca em Vetor
+#### (2,0) Troco guloso
 
-Compare o desempenho, com o vetor de tamanho 10.000.000. Se quiser, use outro método de busca da linguagem.
+Implemente uma solução gulosa para o problema do troco. Aumente o número de cédulas e teste.
 
-Faça commit e push da sua implementação, junto com análise de desempenho e os arquivos na pasta `unidade1/exercicio2` no seu repositório da disciplina.
-
-Em python
-
-```python
-vetor = [71, 21, 33, 5, 84]
-
-if 33 in vetor:
-    print("30 está na lista")
-else:
-    print("30 não está na lista")
-```
-
-Em Java
+Faça commit e push em `unidade1/exercicio3` no seu repositório da disciplina.
 
 ```java
-public class BuscaVetor {
+public class Troco {
     public static void main(String[] args) {
-        int[] vetor = {71, 21, 33, 5, 84};
-        boolean encontrado = false;
+        //quero saber quantas cédulas foram dadas para esse troco
+        int[] cedulasDisponiveis = {?}; //9,6,1?
+        int trocoPara = ?; //12?
+        int[] cedulasUsadas = new int[cedulasDisponiveis.length];
 
-        for (int i = 0; i < vetor.length; i++)
-            if (vetor[i] == 33) {
-                System.out.println(33 + " está na lista");
-                encontrado = true;
-            }
+        for (int i = 0; i < cedulasDisponiveis.length; i++) {
+            //cedulasUsadas[i]...
+            ///trocoPara...
+        }
 
-        if (!encontrado)
-            System.out.println(33 + " não está na lista");
-   }
+        System.out.println("Cédulas usadas:");
+        for (int i = 0; i < cedulasDisponiveis.length; i++) {
+            System.out.println("R$ "+ cedulasDisponiveis[i] + ",00 == " + cedulasUsadas[i]);
+        }
+    }
 }
 ```
