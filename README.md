@@ -11,26 +11,26 @@ Repositório da disciplina **Análise de Algoritmos** da UFERSA Angicos no semes
 - **Exercícios:** [Clique aqui](unidade1/aula1)
 - **Prazo de entrega:** 29/09/2025 até 23:59 (inegociável)
 
-### Aula 2 - 09/10/2025 (1,0)
-- **Tópicos:** Busca em vetor
-- **Exercícios:** [Clique aqui](unidade1/aula2)
-- **Prazo de entrega:** 13/10/2025 até 23:59 (inegociável)
+### Aula 2 - 09/10/2025 (0,0)
+- **Tópicos:** Busca em vetor (teve SECITEC)
+- **Exercícios:** Adiados
+- **Prazo de entrega:** --/10/2025 até --:59 (inegociável)
 
-### Aula 3 - 16/10/2025 (2,0)
-- **Tópicos:** Algoritmos gulosos
-- **Exercícios:** [Clique aqui](unidade1/aula3)
+### Aula 3 - 16/10/2025 (3,0)
+- **Tópicos:** Busca em vetor, algoritmos gulosos
+- **Exercícios:** [Faça a aula 2](unidade1/aula2) e [Faça a aula 3](unidade1/aula3)
 - **Prazo de entrega:** 20/10/2025 até 23:59 (inegociável)
 
 ---
 
 ## Unidade 2
 
-### Aula 4 - 30/10/2025 (2,0)
-- **Tópicos:** Branch and Bounds, algoritmos gulosos
+### Aula 4 - 30/10/2025 (1,0)
+- **Tópicos:** Algoritmos gulosos
 - **Exercícios:** [Clique aqui](unidade2/aula4)
 - **Prazo de entrega:** 02/11/2025 até 23:59 (inegociável)
 
-### Aula 5 - 06/11/2025 (3,0)
+### Aula 5 - 06/11/2025 (2,0)
 - **Tópicos:** Fibonacci e hash
 - **Exercícios:** [Clique aqui](unidade2/aula5)
 - **Prazo de entrega:** 09/11/2025 até 23:59 (inegociável)
@@ -44,7 +44,7 @@ Repositório da disciplina **Análise de Algoritmos** da UFERSA Angicos no semes
 
 ## Unidade 3
 
-### Aula 7 - 27/11/2025 (2,0)
+### Aula 7 - 27/11/2025 (1,0)
 - **Tópicos:** Árvores e Grafos
 - **Exercícios:** [Clique aqui](unidade3/aula7)
 - **Prazo de entrega:** 30/11/2025 até 23:59 (inegociável)
