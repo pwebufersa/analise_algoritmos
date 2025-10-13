@@ -9,36 +9,36 @@ Repositório da disciplina **Análise de Algoritmos** da UFERSA Angicos no semes
 ### Aula 1 - 25/09/2025 (2,0)
 - **Tópicos:** Análise Assintótica, força bruta, busca linear e busca binária
 - **Exercícios:** [Clique aqui](unidade1/aula1)
-- **Prazo de entrega:** 05/10/2025 até 23:59 (inegociável)
+- **Prazo de entrega:** 29/09/2025 até 23:59 (inegociável)
 
 ### Aula 2 - 09/10/2025 (1,0)
 - **Tópicos:** Busca em vetor
 - **Exercícios:** [Clique aqui](unidade1/aula2)
-- **Prazo de entrega:** 19/10/2025 até 23:59 (inegociável)
+- **Prazo de entrega:** 13/10/2025 até 23:59 (inegociável)
 
 ### Aula 3 - 16/10/2025 (2,0)
 - **Tópicos:** Algoritmos gulosos
 - **Exercícios:** [Clique aqui](unidade1/aula3)
-- **Prazo de entrega:** 02/11/2025 até 23:59 (inegociável)
+- **Prazo de entrega:** 20/10/2025 até 23:59 (inegociável)
 
 ---
 
 ## Unidade 2
 
 ### Aula 4 - 30/10/2025 (2,0)
-- **Tópicos:** Algoritmos gulosos
+- **Tópicos:** Branch and Bounds, algoritmos gulosos
 - **Exercícios:** [Clique aqui](unidade2/aula4)
-- **Prazo de entrega:** 06/11/2025 até 23:59 (inegociável)
+- **Prazo de entrega:** 02/11/2025 até 23:59 (inegociável)
 
 ### Aula 5 - 06/11/2025 (3,0)
 - **Tópicos:** Fibonacci e hash
 - **Exercícios:** [Clique aqui](unidade2/aula5)
-- **Prazo de entrega:** 13/11/2025 até 23:59 (inegociável)
+- **Prazo de entrega:** 09/11/2025 até 23:59 (inegociável)
 
 ### Aula 6 - 13/11/2025 (2,0)
-- **Tópicos:** Análise de complexidade
+- **Tópicos:** Análise de Complexidade
 - **Exercícios:** [Clique aqui](unidade2/aula6)
-- **Prazo de entrega:** 20/11/2025 até 23:59 (inegociável)
+- **Prazo de entrega:** 16/11/2025 até 23:59 (inegociável)
 
 ---
 
@@ -47,17 +47,17 @@ Repositório da disciplina **Análise de Algoritmos** da UFERSA Angicos no semes
 ### Aula 7 - 27/11/2025 (2,0)
 - **Tópicos:** Árvores e Grafos
 - **Exercícios:** [Clique aqui](unidade3/aula7)
-- **Prazo de entrega:** 04/12/2025 até 23:59 (inegociável)
+- **Prazo de entrega:** 30/11/2025 até 23:59 (inegociável)
 
 ### Aula 8 - 04/12/2025 (3,0)
 - **Tópicos:** Problemas P e NP
 - **Exercícios:** [Clique aqui](unidade3/aula8)
-- **Prazo de entrega:** 11/12/2025 até 23:59 (inegociável)
+- **Prazo de entrega:** 07/12/2025 até 23:59 (inegociável)
 
 ### Aula 9 - 11/12/2025 (1,0)
 - **Tópicos:** Revisão e Exercícios Gerais
 - **Exercícios:** [Clique aqui](unidade3/aula9)
-- **Prazo de entrega:** 18/12/2025 até 23:59 (inegociável)
+- **Prazo de entrega:** 14/12/2025 até 23:59 (inegociável)
 
 ---
 

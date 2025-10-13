@@ -1,6 +1,6 @@
-### U1 - Aula 3 - 22/05/2025 - Branch and Bounds, busca
+### U1 - Aula 2 - 09/10/2025 - Busca em vetor
 
-#### (2,0) Busca em Vetor
+#### (1,0) Busca em Vetor
 
 Compare o desempenho, com o vetor de tamanho 10.000.000. Se quiser, use outro método de busca da linguagem.
 
