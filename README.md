@@ -27,7 +27,7 @@ Repositório da disciplina **Análise de Algoritmos** da UFERSA Angicos no semes
 
 ### Aula 4 - 30/10/2025 (2,0)
 - **Tópicos:** Branch and Bounds, algoritmos gulosos
-- **Exercícios:** [Clique aqui](unidade1/aula4)
+- **Exercícios:** [Clique aqui](unidade2/aula4)
 - **Prazo de entrega:** 06/11/2025 até 23:59 (inegociável)
 
 ### Aula 5 - 06/11/2025 (3,0)
