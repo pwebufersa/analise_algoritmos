@@ -73,7 +73,7 @@ Por [Carla Quem Disse - UFABC](https://www.youtube.com/playlist?list=PLncEdvQ20-
 
 Na [UNIVESP](https://www.youtube.com/playlist?list=PLxI8Can9yAHf0301dOCgw8a2U_G3UcOjh)
 
-### Visualização d e algoritmos:
+### Visualização de algoritmos:
 https://visualgo.net/en
 
 ### Visualização de algoritmos:
