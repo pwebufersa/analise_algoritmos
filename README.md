@@ -19,7 +19,7 @@ Repositório da disciplina **Análise de Algoritmos** da UFERSA Angicos no semes
 ### Aula 3 - 16/10/2025 (3,0)
 - **Tópicos:** Busca em vetor, algoritmos gulosos.
 - **Exercícios:** [Faça a aula 2](unidade1/aula2) e [Faça a aula 3](unidade1/aula3).
-- **Prazo de entrega:** 20/10/2025 até 23:59 (inegociável)
+- **Prazo de entrega:** 29/10/2025 até 23:59 (inegociável)
 
 ---
 
