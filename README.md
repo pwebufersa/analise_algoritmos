@@ -78,3 +78,6 @@ https://visualgo.net/en
 
 ### Visualização de algoritmos:
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
+### System Design - Encurtador de URL:
+https://www.youtube.com/watch?v=m_anIoKW7Jg
