@@ -16,7 +16,9 @@ public class MochilaFracionaria {
         // Implementar algoritmo guloso
         // Ordenar por valor/peso decrescente
         // Adicionar itens até capacidade máxima
-        
+        int algoritmoGuloso(){
+        }        
+
         System.out.println("Valor máximo obtido: " + valorMaximo);
     }
 }
