@@ -32,12 +32,12 @@ Repositório da disciplina **Análise de Algoritmos** da UFERSA Angicos no semes
 
 ### Aula 5 - 06/11/2025 (2,0)
 - **Tópicos:** Fibonacci e hash.
-- **Exercícios:** [Clique aqui](unidade2/aula5).
-- **Prazo de entrega:** 09/11/2025 até 23:59 (inegociável)
+- **Exercícios:** Adiados.
+- **Prazo de entrega:** --/11/2025 até --:59 (inegociável)
 
 ### Aula 6 - 13/11/2025 (2,0)
 - **Tópicos:** Análise de Complexidade.
-- **Exercícios:** [Clique aqui](unidade2/aula6).
+- **Exercícios:** [Faça a aula 5](unidade1/aula5) e [Faça a aula 6](unidade1/aula6).
 - **Prazo de entrega:** 16/11/2025 até 23:59 (inegociável)
 
 ---
