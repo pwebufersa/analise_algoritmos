@@ -60,35 +60,53 @@
 
 ## Unidade 3
 
-### Aula 9 - 08/10/2026 (?,0)
+### Aula 9 - 15/10/2026 (?,0)
 
 * **Tópicos:** Grafos: Algoritmos Elementares, Busca em Profundidade e Largura.
 * **Exercícios:** [Clique aqui](unidade3/aula9).
-* **Prazo de entrega:** 08/10/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 15/10/2026 até 23:59 (inegociável)
 
-### Aula 10 - 15/10/2026 (?,0)
+### Aula 10 - 22/10/2026 (?,0)
 
 * **Tópicos:** Estruturas de Dados Avançadas: Heaps de Fibonacci.
 * **Exercícios:** [Clique aqui](unidade3/aula10).
-* **Prazo de entrega:** 15/10/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 22/10/2026 até 23:59 (inegociável)
 
-### Aula 11 - 22/10/2026 (?,0)
+### Aula 11 - 29/10/2026 (?,0)
 
 * **Tópicos:** Estruturas de Dados Avançadas: Árvores B e Heaps Binomiais.
 * **Exercícios:** [Clique aqui](unidade3/aula11).
-* **Prazo de entrega:** 22/10/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 29/10/2026 até 23:59 (inegociável)
 
-### Aula 12 - 29/10/2026 (?,0)
+### Aula 12 - 05/11/2026 (?,0)
 
 * **Tópicos:** Programação Dinâmica, Método Húngaro. Problemas P, NP, NP-completo e NP-difícil.
 * **Exercícios:** [Clique aqui](unidade3/aula12).
-* **Prazo de entrega:** 29/10/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 05/11/2026 até 23:59 (inegociável)
 
-### Aula 13 - 05/11/2026 (?,0)
+### Aula 13 - 12/11/2026 (?,0)
 
 * **Tópicos:** Programação Dinâmica, Método Húngaro. Problemas P, NP, NP-completo e NP-difícil.
 * **Exercícios:** [Clique aqui](unidade3/aula13).
-* **Prazo de entrega:** 05/11/2026 até 23:59 (inegociável)
+* **Prazo de entrega:** 12/11/2026 até 23:59 (inegociável)
+
+### Aula 14 - 19/11/2026 (?,0)
+
+* **Tópicos:** Programação Dinâmica, Método Húngaro. Problemas P, NP, NP-completo e NP-difícil.
+* **Exercícios:** [Clique aqui](unidade3/aula14).
+* **Prazo de entrega:** 19/11/2026 até 23:59 (inegociável)
+
+### Aula 15 - 26/11/2026 (?,0)
+
+* **Tópicos:** Programação Dinâmica, Método Húngaro. Problemas P, NP, NP-completo e NP-difícil.
+* **Exercícios:** [Clique aqui](unidade3/aula15).
+* **Prazo de entrega:** 26/11/2026 até 23:59 (inegociável)
+
+### Aula 16 - 03/12/2026 (?,0)
+
+* **Tópicos:** Programação Dinâmica, Método Húngaro. Problemas P, NP, NP-completo e NP-difícil.
+* **Exercícios:** [Clique aqui](unidade3/aula16).
+* **Prazo de entrega:** 03/12/2026 até 23:59 (inegociável)
 
 ---
 
