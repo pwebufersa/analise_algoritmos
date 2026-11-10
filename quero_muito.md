@@ -50,20 +50,20 @@
 
 ### Aula 7 - 12/11/2026 (2,0)
 
-* **Tópicos:** Árvores e Grafos, Heaps de Fibonacci, Árvores B e Heaps Binomiais.
-* **Exercício único da unidade:** [Clique aqui](unidade3/README.md).
+* **Tópicos:** Árvores e Grafos.
+* **Exercício único da unidade:** [Clique aqui](unidade3/exercicio7_8_9/).
 * **Prazo de entrega:** 04/12/2026 até 23:59 (inegociável)
 
 ### Aula 8 - 19/11/2026 (2,0)
 
-* **Tópicos:** Problemas P e NP, NP-completo e NP-difícil.
-* **Exercício único da unidade:** [Clique aqui](unidade3/README.md).
+* **Tópicos:** Problemas P e NP.
+* **Exercício único da unidade:** [Clique aqui](unidade3/exercicio7_8_9/).
 * **Prazo de entrega:** 04/12/2026 até 23:59 (inegociável)
 
 ### Aula 9 - 26/11/2026 (2,0)
 
-* **Tópicos:** Revisão e Exercícios Gerais, Programação Dinâmica e Método Húngaro.
-* **Exercício único da unidade:** [Clique aqui](unidade3/README.md).
+* **Tópicos:** Revisão e Exercícios Gerais.
+* **Exercício único da unidade:** [Clique aqui](unidade3/exercicio7_8_9/).
 * **Prazo de entrega:** 04/12/2026 até 23:59 (inegociável)
 
 ---

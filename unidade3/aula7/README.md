@@ -6,11 +6,3 @@
 
 2. Arrume e teste o [PercorreArvoreBinaria.java](PercorreArvoreBinaria.java).
 
-#### Como entregar
-
-1. O repositório da disciplina deve ser privado e seguir o formato `analiseAlgoritmos_2026.2_primeironomeSegundonome`.
-2. A conta `pwebufersa` deve ser adicionada como colaboradora.
-3. Os resultados desta aula fazem parte do exercício único da Unidade 3 e devem ser organizados em `unidade3/exercicio7_8_9/`.
-4. O código fonte, os resultados e a análise devem ser commitados e enviados por push.
-5. O prazo de entrega é o indicado em `quero_muito.md`.
-
