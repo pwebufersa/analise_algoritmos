@@ -6,19 +6,19 @@
 
 ### Aula 1 - 13/08/2026 (2,0)
 
-* **Tópicos:** Algoritmo de Força Bruta, Mochila Fracionária, Métodos Gulosos.
+* **Tópicos:** Análise Assintótica, Força Bruta, Busca Linear e Busca Binária.
 * **Exercícios:** [Clique aqui](unidade1/aula1).
 * **Prazo de entrega:** 13/08/2026 até 23:59 (inegociável)
 
-### Aula 2 - 20/08/2026 (2,0)
+### Aula 2 - 20/08/2026 (1,0)
 
-* **Tópicos:** Programação Dinâmica, Método Húngaro, Codificação de Huffman.
+* **Tópicos:** Busca em Vetor.
 * **Exercícios:** [Clique aqui](unidade1/aula2).
 * **Prazo de entrega:** 20/08/2026 até 23:59 (inegociável)
 
 ### Aula 3 - 27/08/2026 (2,0)
 
-* **Tópicos:** Programação Dinâmica, Método Húngaro, Codificação de Huffman.
+* **Tópicos:** Algoritmos Gulosos, Troco Guloso.
 * **Exercícios:** [Clique aqui](unidade1/aula3).
 * **Prazo de entrega:** 27/08/2026 até 23:59 (inegociável)
 
@@ -28,19 +28,19 @@
 
 ### Aula 4 - 03/09/2026 (2,0)
 
-* **Tópicos:** Algoritmo de Prim, Algoritmo de Kruskal, Algoritmo de Dijkstra.
+* **Tópicos:** Algoritmos Gulosos, Mochila Fracionária.
 * **Exercícios:** [Clique aqui](unidade2/aula4).
 * **Prazo de entrega:** 03/09/2026 até 23:59 (inegociável)
 
-### Aula 5 - 10/09/2026 (2,0)
+### Aula 5 - 10/09/2026 (3,0)
 
-* **Tópicos:** Algoritmo de Prim, Algoritmo de Kruskal, Algoritmo de Dijkstra.
+* **Tópicos:** Fibonacci e Hash.
 * **Exercícios:** [Clique aqui](unidade2/aula5).
 * **Prazo de entrega:** 10/09/2026 até 23:59 (inegociável)
 
 ### Aula 6 - 17/09/2026 (2,0)
 
-* **Tópicos:** Algoritmo de Prim, Algoritmo de Kruskal, Algoritmo de Dijkstra.
+* **Tópicos:** Análise de Complexidade.
 * **Exercícios:** [Clique aqui](unidade2/aula6).
 * **Prazo de entrega:** 17/09/2026 até 23:59 (inegociável)
 
