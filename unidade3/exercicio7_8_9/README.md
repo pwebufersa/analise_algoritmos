@@ -1,6 +1,6 @@
-### U3 - Aulas 7, 8 e 9 - Exercício Único (6,0)
+### U3 - Aulas 7, 8 e 9 - Exercício único (6,0)
 
-#### Aula 7 - Árvores e Grafos
+#### Aula 7 - Árvores e grafos
 
 1. Responda à questão [de concurso](../aula7/questaoEncaminhamentoArvore.png). Fonte: [Qconcursos](https://www.qconcursos.com/questoes-de-concursos/questoes/89aa631a-23). Ajuda [aqui](../aula7/ajudaEncaminhamentoArvore.png).
 
@@ -10,13 +10,11 @@
 
 1. Resuma esses 3 vídeos e responda: para que serve saber se P = NP? O que isso muda na sua vida?
 
-https://www.youtube.com/watch?v=YX40hbAHx3s
+- [Vídeo 1, P e NP](https://www.youtube.com/watch?v=YX40hbAHx3s)
+- [Vídeo 2, P e NP](https://www.youtube.com/watch?v=UbSF_OqWZ2k)
+- [Vídeo 3, P e NP](https://www.youtube.com/watch?v=rz1INSahE68)
 
-https://www.youtube.com/watch?v=UbSF_OqWZ2k
-
-https://www.youtube.com/watch?v=rz1INSahE68
-
-#### Aula 9 - Revisão e Exercícios Gerais
+#### Aula 9 - Revisão e exercícios gerais
 
 Implemente e compare a complexidade de diferentes algoritmos estudados na disciplina.
 

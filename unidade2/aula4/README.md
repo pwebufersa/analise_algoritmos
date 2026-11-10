@@ -1,4 +1,4 @@
-### U2 - Aula 4 - 30/10/2025 - Algoritmos gulosos (2,0)
+### U2 - Aula 4 - 03/09/2026 - Algoritmos gulosos (2,0)
 
 #### (2,0) Problema da Mochila Fracionária
 

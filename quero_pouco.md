@@ -2,8 +2,8 @@
 
 ## Quero pouco (nota entre 4,0 e 5,0 na média). Entregue tudo até 04/12/2026.
 
-1 - Crie um repositório **privado** no formato `analiseAlgoritmos_2026.2_primeironomeSegundonome`. Adicione a conta `pwebufersa` como colaboradora e avise xico@ufersa.edu.br. Para todas as questões, organize o repositório para que outra pessoa consiga reproduzir os experimentos. Ao resolver, execute pelo menos três vezes, registre os tempos individuais e a média, apresente os resultados em tabela e gráficos, analise os resultados, disponibilize o código fonte e o prompt (se usar).
+1. Crie um repositório **privado** no formato `analiseAlgoritmos_2026.2_primeironomeSegundonome`. Adicione a conta `pwebufersa` como colaboradora e avise xico@ufersa.edu.br. Para todas as questões, organize o repositório para que outra pessoa consiga reproduzir os experimentos. Ao resolver, execute pelo menos três vezes, registre os tempos individuais e a média, apresente os resultados em tabela e gráficos, analise os resultados, disponibilize o código fonte e o prompt (se usar).
 
-2 - Faça um comparativo de tempo de execução de bubble sort e quick sort em uma linguagem interpretada e outra compilada. Registre qual máquina foi usada (software e hardware) e os tempos para "n" em [9.999, 99.999, 99.999.999].
+2. Faça um comparativo de tempo de execução de bubble sort e quick sort em uma linguagem interpretada e outra compilada. Registre a máquina utilizada (software e hardware) e os tempos para "n" em [9.999, 99.999, 99.999.999].
 
-3 - Usando qualquer linguagem de programação, compare o desempenho de busca de uma string (seu primeiro nome) num arquivo ".txt" de 500 MB usando árvore preta e vermelha e usando o equivalente a ArrayList de Java. Salve o arquivo antes de pesquisar. Faça a análise separada dos tempos de criação do arquivo, de leitura do arquivo e da busca.
+3. Usando qualquer linguagem de programação, compare o desempenho de busca de uma string (seu primeiro nome) num arquivo ".txt" de 500 MB usando árvore preta e vermelha e usando o equivalente a ArrayList de Java. Salve o arquivo antes de pesquisar. Faça a análise separada dos tempos de criação do arquivo, de leitura do arquivo e da busca.

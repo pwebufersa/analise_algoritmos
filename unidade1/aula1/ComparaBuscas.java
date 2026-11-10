@@ -1,11 +1,11 @@
 public class ComparaBuscas {
 
-    // retorna o índice no vetor onde está o alvo, -1 caso não encontrado
+    // Retorna o índice no vetor onde está o alvo, -1 caso não encontrado
     public static int buscaLinear(int[] vetor, int alvoBuscado) {
         return -1;
     }
 
-    // retorna o índice no vetor onde está o alvoBuscado, -1 caso não encontrado
+    // Retorna o índice no vetor onde está o alvoBuscado, -1 caso não encontrado
     public static int buscaBinaria(int[] vetor, int alvoBuscado) {
         return -1;
     }
@@ -14,7 +14,7 @@ public class ComparaBuscas {
         int tamanho = 1000000;
         int[] vetor = new int[tamanho];
         for (int i = 0; i < tamanho; i++) {
-            vetor[i] = i * 2; // o vetor só tem números pares
+            vetor[i] = i * 2; // O vetor só tem números pares
         }
         int alvoBuscado = 999998;
 

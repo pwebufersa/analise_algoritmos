@@ -1,6 +1,6 @@
-### U1 - Aula 2 - 09/10/2025 - Busca em vetor
+### U1 - Aula 2 - 20/08/2026 - Busca em vetor (1,5)
 
-#### (1,5) Busca em Vetor
+#### (1,5) Busca em vetor
 
 Compare o desempenho com o vetor de tamanho 10.000.000. Se quiser, use outro método de busca da linguagem.
 
@@ -12,9 +12,9 @@ Em Python
 vetor = [71, 21, 33, 5, 84]
 
 if 33 in vetor:
-    print("30 está na lista")
+    print("33 está na lista")
 else:
-    print("30 não está na lista")
+    print("33 não está na lista")
 ```
 
 Em Java

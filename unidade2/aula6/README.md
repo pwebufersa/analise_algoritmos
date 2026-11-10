@@ -1,6 +1,6 @@
-### U2 - Aula 6 - 13/11/2025 - Análise de Complexidade (1,5)
+### U2 - Aula 6 - 17/09/2026 - Análise de complexidade (1,5)
 
-#### (1,5) Análise de Complexidade
+#### (1,5) Análise de complexidade
 
 1. Responda à questão do [ENADE](questaoENADE2017.png). Fonte: [Qconcursos](https://www.qconcursos.com/questoes-de-concursos/questoes/89aa631a-23) 
 

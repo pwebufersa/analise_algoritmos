@@ -1,4 +1,4 @@
-### U1 - Aula 3 - 16/10/2025 - Algoritmos gulosos (2,0)
+### U1 - Aula 3 - 27/08/2026 - Algoritmos gulosos (2,0)
 
 #### (2,0) Troco guloso
 

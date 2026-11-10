@@ -1,14 +1,14 @@
 
 public class Troco {
     public static void main(String[] args) {
-        //quero saber quantas cédulas foram dadas para esse troco
+        // Quero saber quantas cédulas esse troco usa
         int[] cedulasDisponiveis = {?}; //9,6,1?
         int trocoPara = ?; //12?
         int[] cedulasUsadas = new int[cedulasDisponiveis.length];
 
         for (int i = 0; i < cedulasDisponiveis.length; i++) {
-            //cedulasUsadas[i]...
-            ///trocoPara...
+            // Cálculo de cedulasUsadas[i]...
+            // Cálculo de trocoPara...
         }
 
         System.out.println("Cédulas usadas:");

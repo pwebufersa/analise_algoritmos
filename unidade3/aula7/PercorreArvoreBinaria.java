@@ -79,7 +79,7 @@ public class PercorreArvoreBinaria {
     }
 
     public static void main(String[] args) {
-         //insira 25 elementos. Faça o commit do código e do resultado em um arquivo txt.
+         // Insira 25 elementos. Faça o commit do código e do resultado em um arquivo txt.
         int[] valores = {10, 5, 15};
 
         ArvoreBinaria arvore = new ArvoreBinaria(valores);
