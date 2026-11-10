@@ -2,7 +2,7 @@
 
 Explicação de análise assintótica [aqui](https://drive.google.com/open?id=18zo72s1Jhv8IbED_gvbLMD9umGDsjFZ2).
 
-#### (2,0) Força bruta, busca linear e busca binária
+#### (2,5) Força bruta, busca linear e busca binária
 
 #### Como entregar?
 1. Crie um repositório da disciplina.

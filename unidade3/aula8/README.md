@@ -1,4 +1,4 @@
-### U3 - Aula 8 - Problemas P e NP
+### U3 - Aula 8 - Problemas P e NP (1,5)
 
 Vídeos:
 

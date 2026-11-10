@@ -4,13 +4,13 @@
 
 ## Unidade 1
 
-### Aula 1 - 13/08/2026 (2,0)
+### Aula 1 - 13/08/2026 (2,5)
 
 * **Tópicos:** Análise Assintótica, Força Bruta, Busca Linear e Busca Binária.
 * **Exercícios:** [Clique aqui](unidade1/aula1).
 * **Prazo de entrega:** 13/08/2026 até 23:59 (inegociável)
 
-### Aula 2 - 20/08/2026 (1,0)
+### Aula 2 - 20/08/2026 (1,5)
 
 * **Tópicos:** Busca em Vetor.
 * **Exercícios:** [Clique aqui](unidade1/aula2).
@@ -32,13 +32,13 @@
 * **Exercícios:** [Clique aqui](unidade2/aula4).
 * **Prazo de entrega:** 03/09/2026 até 23:59 (inegociável)
 
-### Aula 5 - 10/09/2026 (3,0)
+### Aula 5 - 10/09/2026 (2,5)
 
 * **Tópicos:** Fibonacci e Hash.
 * **Exercícios:** [Clique aqui](unidade2/aula5).
 * **Prazo de entrega:** 10/09/2026 até 23:59 (inegociável)
 
-### Aula 6 - 17/09/2026 (2,0)
+### Aula 6 - 17/09/2026 (1,5)
 
 * **Tópicos:** Análise de Complexidade.
 * **Exercícios:** [Clique aqui](unidade2/aula6).
@@ -54,13 +54,13 @@
 * **Exercício único da unidade:** [Clique aqui](unidade3/exercicio7_8_9/).
 * **Prazo de entrega:** 04/12/2026 até 23:59 (inegociável)
 
-### Aula 8 - 19/11/2026 (2,0)
+### Aula 8 - 19/11/2026 (1,5)
 
 * **Tópicos:** Problemas P e NP.
 * **Exercício único da unidade:** [Clique aqui](unidade3/exercicio7_8_9/).
 * **Prazo de entrega:** 04/12/2026 até 23:59 (inegociável)
 
-### Aula 9 - 26/11/2026 (2,0)
+### Aula 9 - 26/11/2026 (2,5)
 
 * **Tópicos:** Revisão e Exercícios Gerais.
 * **Exercício único da unidade:** [Clique aqui](unidade3/exercicio7_8_9/).
