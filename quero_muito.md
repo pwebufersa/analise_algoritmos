@@ -26,19 +26,19 @@
 
 ## Unidade 2
 
-### Aula 4 - 03/09/2026 (?,0)
+### Aula 4 - 03/09/2026 (2,0)
 
 * **Tópicos:** Algoritmo de Prim, Algoritmo de Kruskal, Algoritmo de Dijkstra.
 * **Exercícios:** [Clique aqui](unidade2/aula4).
 * **Prazo de entrega:** 03/09/2026 até 23:59 (inegociável)
 
-### Aula 5 - 10/09/2026 (?,0)
+### Aula 5 - 10/09/2026 (2,0)
 
 * **Tópicos:** Algoritmo de Prim, Algoritmo de Kruskal, Algoritmo de Dijkstra.
 * **Exercícios:** [Clique aqui](unidade2/aula5).
 * **Prazo de entrega:** 10/09/2026 até 23:59 (inegociável)
 
-### Aula 6 - 17/09/2026 (?,0)
+### Aula 6 - 17/09/2026 (2,0)
 
 * **Tópicos:** Algoritmo de Prim, Algoritmo de Kruskal, Algoritmo de Dijkstra.
 * **Exercícios:** [Clique aqui](unidade2/aula6).
@@ -48,23 +48,25 @@
 
 ## Unidade 3
 
-### Conteúdo de apoio
+### Aula 7 - 12/11/2026 (2,0)
 
-* **Árvores e Grafos:** [material](unidade3/aula7).
-* **Problemas P e NP:** [material](unidade3/aula8).
-* **Revisão e Exercícios Gerais:** [material](unidade3/aula9).
+* **Tópicos:** Árvores e Grafos.
+* **Exercício único da unidade:** [Clique aqui](unidade3/README.md).
+* **Prazo de entrega:** 04/12/2026 até 23:59 (inegociável)
 
-### Atividade Única da Unidade 3 - 03/12/2026 (5,0)
+### Aula 8 - 19/11/2026 (2,0)
 
-* **Tópicos:** Árvores binárias e percursos, problemas P e NP, análise comparativa de algoritmos de ordenação.
-* **Entrega:** até 04/12/2026 às 23:59 (inegociável).
-* **Formato:** um único arquivo `README.md` na pasta `unidade3/atividade/` do seu repositório da disciplina, com código, tabela, gráfico e análise.
+* **Tópicos:** Problemas P e NP.
+* **Exercício único da unidade:** [Clique aqui](unidade3/README.md).
+* **Prazo de entrega:** 04/12/2026 até 23:59 (inegociável)
 
-#### O que deve ser entregue
+### Aula 9 - 26/11/2026 (2,0)
 
-1. **Percursos em árvore binária (2,0):** o código `PercorreArvoreBinaria.java` deve ser usado como base. Vinte e cinco valores devem ser inseridos, e as saídas em pré-ordem, em-ordem e pós-ordem devem ser registradas no `README.md`.
-2. **Problemas P e NP (2,0):** os três vídeos indicados no material de apoio devem ser resumidos, e a pergunta "para que serve saber se P = NP?" deve ser respondida em até dez linhas.
-3. **Análise comparativa (6,0):** os algoritmos bubble sort, selection sort e merge sort devem ser implementados. Os tempos de execução devem ser medidos para vetores de 1.000, 10.000 e 100.000 elementos. Uma tabela e um gráfico devem ser apresentados, e a complexidade observada deve ser comparada com a complexidade teórica.
+* **Tópicos:** Revisão e Exercícios Gerais.
+* **Exercício único da unidade:** [Clique aqui](unidade3/README.md).
+* **Prazo de entrega:** 04/12/2026 até 23:59 (inegociável)
+
+---
 
 ## Material Extra
 
