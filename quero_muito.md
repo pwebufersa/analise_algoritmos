@@ -44,69 +44,37 @@
 * **Exercícios:** [Clique aqui](unidade2/aula6).
 * **Prazo de entrega:** 17/09/2026 até 23:59 (inegociável)
 
-### Aula 7 - 24/09/2026 (?,0)
-
-* **Tópicos:** Revisão de Árvores e Árvores Geradoras de Custo Mínimo.
-* **Exercícios:** [Clique aqui](unidade2/aula7).
-* **Prazo de entrega:** 24/09/2026 até 23:59 (inegociável)
-
-### Aula 8 - 01/10/2026 (?,0)
-
-* **Tópicos:** Revisão de Árvores e Árvores Geradoras de Custo Mínimo.
-* **Exercícios:** [Clique aqui](unidade2/aula8).
-* **Prazo de entrega:** 01/10/2026 até 23:59 (inegociável)
-
 ---
 
 ## Unidade 3
 
-### Aula 9 - 15/10/2026 (?,0)
+### Conteúdo de apoio
 
-* **Tópicos:** Grafos: Algoritmos Elementares, Busca em Profundidade e Largura.
-* **Exercícios:** [Clique aqui](unidade3/aula9).
-* **Prazo de entrega:** 15/10/2026 até 23:59 (inegociável)
+* **Árvores e Grafos:** [material](unidade3/aula7).
+* **Problemas P e NP:** [material](unidade3/aula8).
+* **Revisão e Exercícios Gerais:** [material](unidade3/aula9).
 
-### Aula 10 - 22/10/2026 (?,0)
+### Atividade Única da Unidade 3 - 03/12/2026 (10,0)
 
-* **Tópicos:** Estruturas de Dados Avançadas: Heaps de Fibonacci.
-* **Exercícios:** [Clique aqui](unidade3/aula10).
-* **Prazo de entrega:** 22/10/2026 até 23:59 (inegociável)
+* **Tópicos:** Árvores binárias e percursos, problemas P e NP, análise comparativa de algoritmos de ordenação.
+* **Entrega:** até 04/12/2026 às 23:59 (inegociável).
+* **Formato:** um único arquivo `README.md` na pasta `unidade3/atividade/` do seu repositório da disciplina, com código, tabela, gráfico e análise.
 
-### Aula 11 - 29/10/2026 (?,0)
+#### O que deve ser entregue
 
-* **Tópicos:** Estruturas de Dados Avançadas: Árvores B e Heaps Binomiais.
-* **Exercícios:** [Clique aqui](unidade3/aula11).
-* **Prazo de entrega:** 29/10/2026 até 23:59 (inegociável)
+1. **Percursos em árvore binária (2,0):** o código `PercorreArvoreBinaria.java` deve ser usado como base. Vinte e cinco valores devem ser inseridos, e as saídas em pré-ordem, em-ordem e pós-ordem devem ser registradas no `README.md`.
+2. **Problemas P e NP (2,0):** os três vídeos indicados no material de apoio devem ser resumidos, e a pergunta "para que serve saber se P = NP?" deve ser respondida em até dez linhas.
+3. **Análise comparativa (6,0):** os algoritmos bubble sort, selection sort e merge sort devem ser implementados. Os tempos de execução devem ser medidos para vetores de 1.000, 10.000 e 100.000 elementos. Uma tabela e um gráfico devem ser apresentados, e a complexidade observada deve ser comparada com a complexidade teórica.
 
-### Aula 12 - 05/11/2026 (?,0)
+#### Critérios de avaliação
 
-* **Tópicos:** Programação Dinâmica, Método Húngaro. Problemas P, NP, NP-completo e NP-difícil.
-* **Exercícios:** [Clique aqui](unidade3/aula12).
-* **Prazo de entrega:** 05/11/2026 até 23:59 (inegociável)
-
-### Aula 13 - 12/11/2026 (?,0)
-
-* **Tópicos:** Programação Dinâmica, Método Húngaro. Problemas P, NP, NP-completo e NP-difícil.
-* **Exercícios:** [Clique aqui](unidade3/aula13).
-* **Prazo de entrega:** 12/11/2026 até 23:59 (inegociável)
-
-### Aula 14 - 19/11/2026 (?,0)
-
-* **Tópicos:** Programação Dinâmica, Método Húngaro. Problemas P, NP, NP-completo e NP-difícil.
-* **Exercícios:** [Clique aqui](unidade3/aula14).
-* **Prazo de entrega:** 19/11/2026 até 23:59 (inegociável)
-
-### Aula 15 - 26/11/2026 (?,0)
-
-* **Tópicos:** Programação Dinâmica, Método Húngaro. Problemas P, NP, NP-completo e NP-difícil.
-* **Exercícios:** [Clique aqui](unidade3/aula15).
-* **Prazo de entrega:** 26/11/2026 até 23:59 (inegociável)
-
-### Aula 16 - 03/12/2026 (?,0)
-
-* **Tópicos:** Programação Dinâmica, Método Húngaro. Problemas P, NP, NP-completo e NP-difícil.
-* **Exercícios:** [Clique aqui](unidade3/aula16).
-* **Prazo de entrega:** 03/12/2026 até 23:59 (inegociável)
+| Critério | Pontuação |
+|---|---|
+| Código compila e executa | 2,0 |
+| Tabela com tempos e gráfico | 2,0 |
+| Análise da complexidade observada versus teórica | 2,0 |
+| Respostas sobre árvores e sobre P versus NP | 2,0 |
+| Organização do repositório e reprodutibilidade | 2,0 |
 
 ---
 
