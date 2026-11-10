@@ -2,13 +2,13 @@
 
 #### Aula 7 - Árvores e Grafos
 
-1. Responda a questão [de concurso](../aula7/questaoEncaminhamentoArvore.png). Fonte: [Qconcursos](https://www.qconcursos.com/questoes-de-concursos/questoes/89aa631a-23). Ajuda [aqui](../aula7/ajudaEncaminhamentoArvore.png).
+1. Responda à questão [de concurso](../aula7/questaoEncaminhamentoArvore.png). Fonte: [Qconcursos](https://www.qconcursos.com/questoes-de-concursos/questoes/89aa631a-23). Ajuda [aqui](../aula7/ajudaEncaminhamentoArvore.png).
 
 2. Arrume e teste o [PercorreArvoreBinaria.java](../aula7/PercorreArvoreBinaria.java).
 
 #### Aula 8 - Problemas P e NP
 
-1. Resuma esses 3 videos e respoda: pra que serve saber se P=NP? O que isso muda na sua vida?
+1. Resuma esses 3 vídeos e responda: para que serve saber se P = NP? O que isso muda na sua vida?
 
 https://www.youtube.com/watch?v=YX40hbAHx3s
 
