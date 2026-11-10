@@ -54,7 +54,7 @@
 * **Problemas P e NP:** [material](unidade3/aula8).
 * **Revisão e Exercícios Gerais:** [material](unidade3/aula9).
 
-### Atividade Única da Unidade 3 - 03/12/2026 (10,0)
+### Atividade Única da Unidade 3 - 03/12/2026 (5,0)
 
 * **Tópicos:** Árvores binárias e percursos, problemas P e NP, análise comparativa de algoritmos de ordenação.
 * **Entrega:** até 04/12/2026 às 23:59 (inegociável).
@@ -65,18 +65,6 @@
 1. **Percursos em árvore binária (2,0):** o código `PercorreArvoreBinaria.java` deve ser usado como base. Vinte e cinco valores devem ser inseridos, e as saídas em pré-ordem, em-ordem e pós-ordem devem ser registradas no `README.md`.
 2. **Problemas P e NP (2,0):** os três vídeos indicados no material de apoio devem ser resumidos, e a pergunta "para que serve saber se P = NP?" deve ser respondida em até dez linhas.
 3. **Análise comparativa (6,0):** os algoritmos bubble sort, selection sort e merge sort devem ser implementados. Os tempos de execução devem ser medidos para vetores de 1.000, 10.000 e 100.000 elementos. Uma tabela e um gráfico devem ser apresentados, e a complexidade observada deve ser comparada com a complexidade teórica.
-
-#### Critérios de avaliação
-
-| Critério | Pontuação |
-|---|---|
-| Código compila e executa | 2,0 |
-| Tabela com tempos e gráfico | 2,0 |
-| Análise da complexidade observada versus teórica | 2,0 |
-| Respostas sobre árvores e sobre P versus NP | 2,0 |
-| Organização do repositório e reprodutibilidade | 2,0 |
-
----
 
 ## Material Extra
 
